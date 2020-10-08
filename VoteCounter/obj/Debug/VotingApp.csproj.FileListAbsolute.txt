@@ -1,0 +1,16 @@
+E:\GitHubRepos\VoteCounter\VoteCounter\bin\Debug\VoteCounter.exe.config
+E:\GitHubRepos\VoteCounter\VoteCounter\bin\Debug\VoteCounter.exe
+E:\GitHubRepos\VoteCounter\VoteCounter\bin\Debug\VoteCounter.pdb
+E:\GitHubRepos\VoteCounter\VoteCounter\bin\Debug\itextsharp.dll
+E:\GitHubRepos\VoteCounter\VoteCounter\bin\Debug\itextsharp.xml
+E:\GitHubRepos\VoteCounter\VoteCounter\obj\Debug\VotingApp.csprojAssemblyReference.cache
+E:\GitHubRepos\VoteCounter\VoteCounter\obj\Debug\VotingApp.csproj.ResolveComReference.cache
+E:\GitHubRepos\VoteCounter\VoteCounter\obj\Debug\VoteCounter.AuditingForm.resources
+E:\GitHubRepos\VoteCounter\VoteCounter\obj\Debug\VoteCounter.RemoveCandidateForm.resources
+E:\GitHubRepos\VoteCounter\VoteCounter\obj\Debug\VoteCounter.VoteCounterForm.resources
+E:\GitHubRepos\VoteCounter\VoteCounter\obj\Debug\VoteCounter.Properties.Resources.resources
+E:\GitHubRepos\VoteCounter\VoteCounter\obj\Debug\VotingApp.csproj.GenerateResource.cache
+E:\GitHubRepos\VoteCounter\VoteCounter\obj\Debug\VotingApp.csproj.CoreCompileInputs.cache
+E:\GitHubRepos\VoteCounter\VoteCounter\obj\Debug\VotingApp.csproj.CopyComplete
+E:\GitHubRepos\VoteCounter\VoteCounter\obj\Debug\VoteCounter.exe
+E:\GitHubRepos\VoteCounter\VoteCounter\obj\Debug\VoteCounter.pdb

@@ -1,0 +1,26 @@
+C:\Users\user\source\repos\VoteCounter\VoteCounter\bin\Debug\VoteCounter.exe.config
+C:\Users\user\source\repos\VoteCounter\VoteCounter\bin\Debug\VoteCounter.exe
+C:\Users\user\source\repos\VoteCounter\VoteCounter\bin\Debug\VoteCounter.pdb
+C:\Users\user\source\repos\VoteCounter\VoteCounter\obj\Debug\VoteCounter.csprojAssemblyReference.cache
+C:\Users\user\source\repos\VoteCounter\VoteCounter\obj\Debug\VoteCounter.Properties.Resources.resources
+C:\Users\user\source\repos\VoteCounter\VoteCounter\obj\Debug\VoteCounter.csproj.GenerateResource.cache
+C:\Users\user\source\repos\VoteCounter\VoteCounter\obj\Debug\VoteCounter.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\VoteCounter\VoteCounter\obj\Debug\VoteCounter.exe
+C:\Users\user\source\repos\VoteCounter\VoteCounter\obj\Debug\VoteCounter.pdb
+C:\Users\user\source\repos\VoteCounter\VoteCounter\obj\Debug\VoteCounter.VoteCounterForm.resources
+D:\Unisa\Semester_4\Agile Development with .NET\Ass3\VoteCounter\VoteCounter\bin\Debug\VoteCounter.exe.config
+D:\Unisa\Semester_4\Agile Development with .NET\Ass3\VoteCounter\VoteCounter\bin\Debug\VoteCounter.exe
+D:\Unisa\Semester_4\Agile Development with .NET\Ass3\VoteCounter\VoteCounter\bin\Debug\VoteCounter.pdb
+D:\Unisa\Semester_4\Agile Development with .NET\Ass3\VoteCounter\VoteCounter\obj\Debug\VoteCounter.csproj.ResolveComReference.cache
+D:\Unisa\Semester_4\Agile Development with .NET\Ass3\VoteCounter\VoteCounter\obj\Debug\VoteCounter.AuditingForm.resources
+D:\Unisa\Semester_4\Agile Development with .NET\Ass3\VoteCounter\VoteCounter\obj\Debug\VoteCounter.RemoveCandidateForm.resources
+D:\Unisa\Semester_4\Agile Development with .NET\Ass3\VoteCounter\VoteCounter\obj\Debug\VoteCounter.VoteCounterForm.resources
+D:\Unisa\Semester_4\Agile Development with .NET\Ass3\VoteCounter\VoteCounter\obj\Debug\VoteCounter.Properties.Resources.resources
+D:\Unisa\Semester_4\Agile Development with .NET\Ass3\VoteCounter\VoteCounter\obj\Debug\VoteCounter.csproj.GenerateResource.cache
+D:\Unisa\Semester_4\Agile Development with .NET\Ass3\VoteCounter\VoteCounter\obj\Debug\VoteCounter.csproj.CoreCompileInputs.cache
+D:\Unisa\Semester_4\Agile Development with .NET\Ass3\VoteCounter\VoteCounter\obj\Debug\VoteCounter.exe
+D:\Unisa\Semester_4\Agile Development with .NET\Ass3\VoteCounter\VoteCounter\obj\Debug\VoteCounter.pdb
+D:\Unisa\Semester_4\Agile Development with .NET\Ass3\VoteCounter\VoteCounter\obj\Debug\VoteCounter.csprojAssemblyReference.cache
+D:\Unisa\Semester_4\Agile Development with .NET\Ass3\VoteCounter\VoteCounter\bin\Debug\itextsharp.dll
+D:\Unisa\Semester_4\Agile Development with .NET\Ass3\VoteCounter\VoteCounter\bin\Debug\itextsharp.xml
+D:\Unisa\Semester_4\Agile Development with .NET\Ass3\VoteCounter\VoteCounter\obj\Debug\VoteCounter.csproj.CopyComplete
