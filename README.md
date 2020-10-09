@@ -5,7 +5,7 @@
 ![ScreenHunter 47](https://user-images.githubusercontent.com/72535251/95529762-5b7d3f00-0a23-11eb-9a14-b79d6f3d59f5.png)
 
 ## Description
-Small Voting App allows read multiple csv files, aduting and ouput the result to PDF /CSV files
+Small Voting App allows read multiple csv files, auditing and ouput the result to PDF /CSV files
 
 
 ## Technology Stack
